@@ -54,5 +54,41 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Finance Tips That Actually Work for Watch Collectors (And Everyone Else)",
+    "slug": "finance-tips-watch-collectors",
+    "meta_description": "Practical finance tips for watch collectors and enthusiasts who want to build wealth without selling their passion pieces. Real advice, no fluff.",
+    "date": "May 29, 2026",
+    "date_iso": "2026-05-29",
+    "author": "Alex Merritt",
+    "image": "https://images.pexels.com/photos/5466809/pexels-photo-5466809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "bankrate.com"
+    ],
+    "posted_iso": "2026-05-29",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Patek Philippe Reference 5711: How the 2019 Nautilus Surge Rewrote Secondary Market Logic",
+    "slug": "patek-5711-nautilus-2019-market-surge",
+    "meta_description": "In 2019, the Patek Philippe Ref. 5711 hit premiums no one predicted. Here's what it meant for the watch market and why it still matters.",
+    "date": "December 01, 2019",
+    "date_iso": "2019-12-01",
+    "author": "Alex Merritt",
+    "image": "https://images.pexels.com/photos/29268634/pexels-photo-29268634.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "chrono24.com",
+      "watchpro.com",
+      "fhs.ch"
+    ],
+    "posted_iso": "2026-05-29",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
