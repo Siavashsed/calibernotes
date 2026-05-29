@@ -16,7 +16,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Industry"
   },
   {
     "title": "Watches & Wonders Geneva 2020: The Digital Pivot That Quietly Reshaped Luxury Watch Marketing",
@@ -34,7 +35,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Industry"
   },
   {
     "title": "Patek Philippe's Grandmaster Chime Ref. 6300A-010 and What the 2019 Only Watch Sale Meant for 2020's Market",
@@ -53,7 +55,8 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Buying Guides"
   },
   {
     "title": "Finance Tips That Actually Work for Watch Collectors (And Everyone Else)",
@@ -70,7 +73,8 @@
     "posted_iso": "2026-05-29",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Movements"
   },
   {
     "title": "Patek Philippe Reference 5711: How the 2019 Nautilus Surge Rewrote Secondary Market Logic",
@@ -89,6 +93,7 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Buying Guides"
   }
 ]
