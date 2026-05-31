@@ -3,7 +3,6 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" type="image/svg+xml" href="favicon.svg"><link rel="alternate icon" href="favicon.ico"><link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">
 <title>Caliber Notes - Mechanical Watches, Decoded</title>
 <meta name="description" content="Caliber Notes is a technical notebook on mechanical watches, movements, and independent watchmakers. Quiet, measured, engineering-first writing by Henrik Voss. No sponsored placements, no PR rewrites - just the spec sheet.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -341,6 +340,9 @@ main{padding-top:98px}@media(max-width:760px){
 }</style>
 </head>
 <body>
+<!--SHELL:ACCENT:#cdb87a-->
+<!--SHELL:HEADER-->
+
 <!-- UTILITY BAR -->
 <div class="util">
   <div class="util-inner">
@@ -372,6 +374,8 @@ main{padding-top:98px}@media(max-width:760px){
     </div>
   </div>
 </div>
+<!--/SHELL:HEADER-->
+
 <main>
 
 <!-- ============ HERO ============ -->
@@ -1093,8 +1097,9 @@ main{padding-top:98px}@media(max-width:760px){
 </main>
 
 
-<!-- VIEW_ALL_ARTICLES_LINK_PLACED -->
-<div style="background:rgba(0,0,0,.03);padding:8px 24px;text-align:center;border-bottom:1px solid rgba(0,0,0,.06)"><a href="./articles" style="display:inline-block;color:currentColor;text-decoration:none;font-family:ui-monospace,monospace;font-size:11px;letter-spacing:.32em;text-transform:uppercase;opacity:.7">All writing &rarr;</a></div>
+<!-- VIEW_ALL_ARTICLES_LINK -->
+<div class="view-all" style="text-align:center;padding:28px 24px 40px;font-family:inherit"><a href="./articles.html" style="display:inline-block;color:currentColor;border:1px solid currentColor;padding:10px 22px;border-radius:999px;text-decoration:none;font-size:13px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;opacity:.85;transition:opacity .15s" onmouseover="this.style.opacity='1'" onmouseout="this.style.opacity='.85'">View all articles -&gt;</a></div>
+<!--SHELL:FOOTER-->
 <footer class="foot">
   <div class="wrap">
     <div class="foot-plate">
@@ -1123,7 +1128,7 @@ main{padding-top:98px}@media(max-width:760px){
           <h4>Notebook</h4>
           <ul>
             <li><a href="./">Home</a></li>
-            <li><a href="about">About Henrik</a></li>
+            <li><a href="about.html">About Henrik</a></li>
             <li><a href="#faq">Service Interval</a></li>
             <li><a href="#subscribe">The Service Brief</a></li>
           </ul>
@@ -1131,8 +1136,8 @@ main{padding-top:98px}@media(max-width:760px){
         <div class="foot-col">
           <h4>Legal</h4>
           <ul>
-            <li><a href="privacy">Privacy</a></li>
-            <li><a href="terms">Terms</a></li>
+            <li><a href="privacy.html">Privacy</a></li>
+            <li><a href="terms.html">Terms</a></li>
             <li><a href="#author">Disclosures</a></li>
             <li><a href="#subscribe">Contact</a></li>
           </ul>
@@ -1145,6 +1150,8 @@ main{padding-top:98px}@media(max-width:760px){
     </div>
   </div>
 </footer>
+<!--/SHELL:FOOTER-->
+
 <script>
 // Year
 document.getElementById('yr').textContent = new Date().getFullYear();
