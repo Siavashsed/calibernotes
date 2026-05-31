@@ -95,5 +95,43 @@
       "en"
     ],
     "category": "Buying Guides"
+  },
+  {
+    "title": "Finance Tips That Actually Move the Needle (No Fluff, No Hype)",
+    "slug": "finance-tips-that-move-needle",
+    "meta_description": "Practical finance tips from a watch collector's perspective. Cut through the noise with advice that actually builds wealth over time.",
+    "date": "May 31, 2026",
+    "date_iso": "2026-05-31",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/29799518/pexels-photo-29799518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "macrotrends.net",
+      "federalreserve.gov",
+      "nber.org"
+    ],
+    "posted_iso": "2026-05-31",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Watches & Wonders Geneva 2022: The Fair That Proved Luxury Watches Had Survived the Pandemic",
+    "slug": "watches-wonders-geneva-2022-return",
+    "meta_description": "Watches & Wonders Geneva 2022 returned in person for the first time since 2019. Here's what it meant for the watch industry and why it mattered.",
+    "date": "November 13, 2022",
+    "date_iso": "2022-11-13",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/11301201/pexels-photo-11301201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "bloomberg.com",
+      "hodinkee.com",
+      "watchpro.com",
+      "fhs.swiss"
+    ],
+    "posted_iso": "2026-05-31",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
