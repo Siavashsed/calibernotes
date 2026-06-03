@@ -112,7 +112,8 @@
     "posted_iso": "2026-05-31",
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Movements"
   },
   {
     "title": "Watches & Wonders Geneva 2022: The Fair That Proved Luxury Watches Had Survived the Pandemic",
@@ -132,6 +133,7 @@
     "historical": true,
     "available_languages": [
       "en"
-    ]
+    ],
+    "category": "Industry"
   }
 ]
