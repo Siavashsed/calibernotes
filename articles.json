@@ -135,5 +135,43 @@
       "en"
     ],
     "category": "Industry"
+  },
+  {
+    "title": "Finance Tips That Actually Build Wealth (Not Just the Illusion of It)",
+    "slug": "finance-tips-build-real-wealth",
+    "meta_description": "Practical finance tips from someone who's made the mistakes. Cut through the noise and start building real financial stability today.",
+    "date": "June 07, 2026",
+    "date_iso": "2026-06-07",
+    "author": "Alex Merritt",
+    "image": "https://images.pexels.com/photos/5466789/pexels-photo-5466789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "vanguard.com",
+      "nber.org",
+      "apa.org",
+      "federalreserve.gov"
+    ],
+    "posted_iso": "2026-06-07",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Watches & Wonders Geneva 2024: The Year the Bubble Started to Hiss",
+    "slug": "watches-wonders-geneva-2024-retrospective",
+    "meta_description": "Watches & Wonders Geneva 2024 arrived amid a cooling market. Here's what actually mattered, and what the industry is quietly nervous about.",
+    "date": "September 20, 2024",
+    "date_iso": "2024-09-20",
+    "author": "Sophie Chen",
+    "image": "https://images.pexels.com/photos/20464756/pexels-photo-20464756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "fhs.swiss",
+      "morganstanley.com",
+      "hodinkee.com"
+    ],
+    "posted_iso": "2026-06-07",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
