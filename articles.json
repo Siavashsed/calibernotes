@@ -193,5 +193,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Watch Collection Is a Financial Asset. Treat It Like One.",
+    "slug": "watch-collector-finance-tips",
+    "meta_description": "Finance tips that actually change how collectors build wealth - from cash flow rules to the real cost of sitting on illiquid assets.",
+    "date": "July 01, 2026",
+    "date_iso": "2026-07-01",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/2029594/pexels-photo-2029594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "consumerfinance.gov",
+      "irs.gov"
+    ],
+    "posted_iso": "2026-07-01",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Rolex Bought Bucherer and the Watch World Still Hasn't Processed It",
+    "slug": "rolex-bucherer-acquisition-2024",
+    "meta_description": "Rolex's 2024 full ownership of Bucherer reshaped watch retail forever. Here's what it meant, what went wrong in the coverage, and why it matters.",
+    "date": "January 30, 2024",
+    "date_iso": "2024-01-30",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/7474362/pexels-photo-7474362.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "reuters.com",
+      "bloomberg.com",
+      "statista.com"
+    ],
+    "posted_iso": "2026-07-01",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
