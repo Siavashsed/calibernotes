@@ -230,5 +230,42 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The Finance Rules I Learned From Overpaying for a Watch",
+    "slug": "finance-tips-watch-collector",
+    "meta_description": "Practical finance tips from a watch collector who made the money mistakes first. Real numbers, honest trade-offs, and what actually builds wealth.",
+    "date": "July 13, 2026",
+    "date_iso": "2026-07-13",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/1790711/pexels-photo-1790711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "nber.org",
+      "sec.gov"
+    ],
+    "posted_iso": "2026-07-13",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Rolex Just Bought Its Biggest Retailer, and the Trade Is Spooked",
+    "slug": "rolex-buys-bucherer-2023",
+    "meta_description": "Rolex is acquiring Bucherer, its largest authorized dealer. Here's what the deal means for waitlists, the gray market, and the rest of the watch trade.",
+    "date": "December 27, 2023",
+    "date_iso": "2023-12-27",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/35050220/pexels-photo-35050220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "rolex.com",
+      "reuters.com",
+      "bloomberg.com",
+      "watchcharts.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
