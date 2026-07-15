@@ -267,5 +267,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The Money Habits I Wish I'd Built Before Buying My First Watch",
+    "slug": "money-habits-before-first-watch",
+    "meta_description": "Practical finance tips from someone who learned the hard way. Automate savings, kill high-interest debt, and stop confusing spending with investing.",
+    "date": "July 15, 2026",
+    "date_iso": "2026-07-15",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/6927354/pexels-photo-6927354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "nber.org"
+    ],
+    "posted_iso": "2026-07-15",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
