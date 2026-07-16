@@ -284,5 +284,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The $400 Question Most Watch Collectors Can't Answer",
+    "slug": "400-question-watch-collectors-finance",
+    "meta_description": "Practical finance tips for watch collectors: cash buffers, automation, and why your watch box is not a retirement account.",
+    "date": "July 16, 2026",
+    "date_iso": "2026-07-16",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/3873853/pexels-photo-3873853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "morningstar.com",
+      "watchcharts.com"
+    ],
+    "posted_iso": "2026-07-16",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
