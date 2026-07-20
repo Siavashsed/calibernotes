@@ -302,5 +302,43 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Watch Is Not an Investment, and That's Fine",
+    "slug": "watch-not-investment-finance-tips",
+    "meta_description": "Honest finance tips from a collector: why watches fail as investments, what actually builds wealth, and the boring math that funds the good stuff.",
+    "date": "July 20, 2026",
+    "date_iso": "2026-07-20",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/5710619/pexels-photo-5710619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "knightfrank.com",
+      "vanguard.com",
+      "federalreserve.gov"
+    ],
+    "posted_iso": "2026-07-20",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Patek Kills the 5711 and Hands the Market to Flippers",
+    "slug": "patek-5711-discontinued-2021",
+    "meta_description": "Patek Philippe discontinued the steel Nautilus 5711 in 2021. Here is what really happened, why Thierry Stern did it, and what it cost collectors.",
+    "date": "September 20, 2021",
+    "date_iso": "2021-09-20",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/278299/pexels-photo-278299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "fhs.swiss",
+      "phillips.com",
+      "reuters.com",
+      "morganstanley.com"
+    ],
+    "posted_iso": "2026-07-20",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
