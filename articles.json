@@ -1,23 +1,282 @@
 [
   {
-    "title": "Watches & Wonders Geneva 2020: The Digital Pivot That Changed How We Buy Watches",
-    "slug": "watches-wonders-geneva-2020-digital",
-    "meta_description": "Watches & Wonders Geneva went fully digital in 2020. Here's what that meant for the watch industry, collectors, and the future of trade shows.",
-    "date": "July 15, 2020",
-    "date_iso": "2020-07-15",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/32128448/pexels-photo-32128448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "title": "The Kavalsia Calibre: Reading a Five-Year Build Like a Movement on the Bench",
+    "slug": "kavalsia-calibre-watchmaker-five-years-workshop",
+    "meta_description": "A horology writer reads Kavalsia like a movement: mainspring, escapement, gear train, complications and regulation, after five years in the workshop.",
+    "date": "November 10, 2026",
+    "date_iso": "2026-11-10",
+    "author": "Viktor Halloway",
+    "image": "https://images.pexels.com/photos/4952980/pexels-photo-4952980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_alt": "Close-up of a silver skeleton pocket watch with its gears and movement exposed.",
+    "photographer": "David Roberts",
+    "category": "Watches & Horology",
+    "posted_iso": "2026-11-10T22:51:56",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Your Watch Is Not an Investment, and That's Fine",
+    "slug": "watch-not-investment-finance-tips",
+    "meta_description": "Honest finance tips from a collector: why watches fail as investments, what actually builds wealth, and the boring math that funds the good stuff.",
+    "date": "July 20, 2026",
+    "date_iso": "2026-07-20",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/5710619/pexels-photo-5710619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
     "outbound_links": [
-      "watchesandwonders.com",
-      "fhs.swiss",
-      "fratellowatches.com",
-      "reuters.com"
+      "knightfrank.com",
+      "vanguard.com",
+      "federalreserve.gov"
     ],
+    "posted_iso": "2026-07-20",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The $400 Question Most Watch Collectors Can't Answer",
+    "slug": "400-question-watch-collectors-finance",
+    "meta_description": "Practical finance tips for watch collectors: cash buffers, automation, and why your watch box is not a retirement account.",
+    "date": "July 16, 2026",
+    "date_iso": "2026-07-16",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/3873853/pexels-photo-3873853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "morningstar.com",
+      "watchcharts.com"
+    ],
+    "posted_iso": "2026-07-16",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The Money Habits I Wish I'd Built Before Buying My First Watch",
+    "slug": "money-habits-before-first-watch",
+    "meta_description": "Practical finance tips from someone who learned the hard way. Automate savings, kill high-interest debt, and stop confusing spending with investing.",
+    "date": "July 15, 2026",
+    "date_iso": "2026-07-15",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/6927354/pexels-photo-6927354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "nber.org"
+    ],
+    "posted_iso": "2026-07-15",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The Finance Rules I Learned From Overpaying for a Watch",
+    "slug": "finance-tips-watch-collector",
+    "meta_description": "Practical finance tips from a watch collector who made the money mistakes first. Real numbers, honest trade-offs, and what actually builds wealth.",
+    "date": "July 13, 2026",
+    "date_iso": "2026-07-13",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/1790711/pexels-photo-1790711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "nber.org",
+      "sec.gov"
+    ],
+    "posted_iso": "2026-07-13",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Your Watch Collection Is a Financial Asset. Treat It Like One.",
+    "slug": "watch-collector-finance-tips",
+    "meta_description": "Finance tips that actually change how collectors build wealth - from cash flow rules to the real cost of sitting on illiquid assets.",
+    "date": "July 01, 2026",
+    "date_iso": "2026-07-01",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/2029594/pexels-photo-2029594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "consumerfinance.gov",
+      "irs.gov"
+    ],
+    "posted_iso": "2026-07-01",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Finance Tips That Actually Build Wealth (Not Just the Illusion of It)",
+    "slug": "finance-tips-build-real-wealth",
+    "meta_description": "Practical finance tips from someone who's made the mistakes. Cut through the noise and start building real financial stability today.",
+    "date": "June 07, 2026",
+    "date_iso": "2026-06-07",
+    "author": "Alex Merritt",
+    "image": "https://images.pexels.com/photos/5466789/pexels-photo-5466789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "vanguard.com",
+      "nber.org",
+      "apa.org",
+      "federalreserve.gov"
+    ],
+    "posted_iso": "2026-06-07",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Finance Tips That Actually Move the Needle (No Fluff, No Hype)",
+    "slug": "finance-tips-that-move-needle",
+    "meta_description": "Practical finance tips from a watch collector's perspective. Cut through the noise with advice that actually builds wealth over time.",
+    "date": "May 31, 2026",
+    "date_iso": "2026-05-31",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/29799518/pexels-photo-29799518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "macrotrends.net",
+      "federalreserve.gov",
+      "nber.org"
+    ],
+    "posted_iso": "2026-05-31",
+    "available_languages": [
+      "en"
+    ],
+    "category": "Movements"
+  },
+  {
+    "title": "Finance Tips That Actually Work for Watch Collectors (And Everyone Else)",
+    "slug": "finance-tips-watch-collectors",
+    "meta_description": "Practical finance tips for watch collectors and enthusiasts who want to build wealth without selling their passion pieces. Real advice, no fluff.",
+    "date": "May 29, 2026",
+    "date_iso": "2026-05-29",
+    "author": "Alex Merritt",
+    "image": "https://images.pexels.com/photos/5466809/pexels-photo-5466809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "bankrate.com"
+    ],
+    "posted_iso": "2026-05-29",
+    "available_languages": [
+      "en"
+    ],
+    "category": "Movements"
+  },
+  {
+    "title": "Watches & Wonders Geneva 2024: The Year the Bubble Started to Hiss",
+    "slug": "watches-wonders-geneva-2024-retrospective",
+    "meta_description": "Watches & Wonders Geneva 2024 arrived amid a cooling market. Here's what actually mattered, and what the industry is quietly nervous about.",
+    "date": "September 20, 2024",
+    "date_iso": "2024-09-20",
+    "author": "Sophie Chen",
+    "image": "https://images.pexels.com/photos/20464756/pexels-photo-20464756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "fhs.swiss",
+      "morganstanley.com",
+      "hodinkee.com"
+    ],
+    "posted_iso": "2026-06-07",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Rolex Bought Bucherer and the Watch World Still Hasn't Processed It",
+    "slug": "rolex-bucherer-acquisition-2024",
+    "meta_description": "Rolex's 2024 full ownership of Bucherer reshaped watch retail forever. Here's what it meant, what went wrong in the coverage, and why it matters.",
+    "date": "January 30, 2024",
+    "date_iso": "2024-01-30",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/4276458/pexels-photo-4276458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "reuters.com",
+      "bloomberg.com",
+      "statista.com"
+    ],
+    "posted_iso": "2026-07-01",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Rolex Just Bought Its Biggest Retailer, and the Trade Is Spooked",
+    "slug": "rolex-buys-bucherer-2023",
+    "meta_description": "Rolex is acquiring Bucherer, its largest authorized dealer. Here's what the deal means for waitlists, the gray market, and the rest of the watch trade.",
+    "date": "December 27, 2023",
+    "date_iso": "2023-12-27",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/35050220/pexels-photo-35050220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "rolex.com",
+      "reuters.com",
+      "bloomberg.com",
+      "watchcharts.com"
+    ],
+    "posted_iso": "2026-07-13",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Watches & Wonders Geneva 2022: The Fair That Proved Luxury Watches Had Survived the Pandemic",
+    "slug": "watches-wonders-geneva-2022-return",
+    "meta_description": "Watches & Wonders Geneva 2022 returned in person for the first time since 2019. Here's what it meant for the watch industry and why it mattered.",
+    "date": "November 13, 2022",
+    "date_iso": "2022-11-13",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/11301201/pexels-photo-11301201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "bloomberg.com",
+      "hodinkee.com",
+      "watchpro.com",
+      "fhs.swiss"
+    ],
+    "posted_iso": "2026-05-31",
     "historical": true,
     "available_languages": [
       "en"
     ],
     "category": "Industry"
+  },
+  {
+    "title": "Rolex Bought Bucherer in 2023 - But 2022 Was When the Grey Market War Started",
+    "slug": "rolex-grey-market-2022-dealer-shakeup",
+    "meta_description": "In 2022, Rolex's authorised dealer network cracked under grey market pressure. Here's what actually happened and why it changed everything.",
+    "date": "February 19, 2022",
+    "date_iso": "2022-02-19",
+    "author": "Alex Merritt",
+    "image": "https://images.pexels.com/photos/29268643/pexels-photo-29268643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "watchcharts.com",
+      "business-of-fashion.com",
+      "ft.com",
+      "mckinsey.com"
+    ],
+    "posted_iso": "2026-06-09",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Patek Kills the 5711 and Hands the Market to Flippers",
+    "slug": "patek-5711-discontinued-2021",
+    "meta_description": "Patek Philippe discontinued the steel Nautilus 5711 in 2021. Here is what really happened, why Thierry Stern did it, and what it cost collectors.",
+    "date": "September 20, 2021",
+    "date_iso": "2021-09-20",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/278299/pexels-photo-278299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "fhs.swiss",
+      "phillips.com",
+      "reuters.com",
+      "morganstanley.com"
+    ],
+    "posted_iso": "2026-07-20",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   },
   {
     "title": "Watches & Wonders Geneva 2020: The Digital Pivot That Quietly Reshaped Luxury Watch Marketing",
@@ -31,6 +290,26 @@
       "watchesandwonders.com",
       "businessoffashion.com",
       "morganstanley.com"
+    ],
+    "historical": true,
+    "available_languages": [
+      "en"
+    ],
+    "category": "Industry"
+  },
+  {
+    "title": "Watches & Wonders Geneva 2020: The Digital Pivot That Changed How We Buy Watches",
+    "slug": "watches-wonders-geneva-2020-digital",
+    "meta_description": "Watches & Wonders Geneva went fully digital in 2020. Here's what that meant for the watch industry, collectors, and the future of trade shows.",
+    "date": "July 15, 2020",
+    "date_iso": "2020-07-15",
+    "author": "Jordan Cole",
+    "image": "https://images.pexels.com/photos/32128448/pexels-photo-32128448.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "watchesandwonders.com",
+      "fhs.swiss",
+      "fratellowatches.com",
+      "reuters.com"
     ],
     "historical": true,
     "available_languages": [
@@ -59,24 +338,6 @@
     "category": "Buying Guides"
   },
   {
-    "title": "Finance Tips That Actually Work for Watch Collectors (And Everyone Else)",
-    "slug": "finance-tips-watch-collectors",
-    "meta_description": "Practical finance tips for watch collectors and enthusiasts who want to build wealth without selling their passion pieces. Real advice, no fluff.",
-    "date": "May 29, 2026",
-    "date_iso": "2026-05-29",
-    "author": "Alex Merritt",
-    "image": "https://images.pexels.com/photos/5466809/pexels-photo-5466809.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "federalreserve.gov",
-      "bankrate.com"
-    ],
-    "posted_iso": "2026-05-29",
-    "available_languages": [
-      "en"
-    ],
-    "category": "Movements"
-  },
-  {
     "title": "Patek Philippe Reference 5711: How the 2019 Nautilus Surge Rewrote Secondary Market Logic",
     "slug": "patek-5711-nautilus-2019-market-surge",
     "meta_description": "In 2019, the Patek Philippe Ref. 5711 hit premiums no one predicted. Here's what it meant for the watch market and why it still matters.",
@@ -95,250 +356,5 @@
       "en"
     ],
     "category": "Buying Guides"
-  },
-  {
-    "title": "Finance Tips That Actually Move the Needle (No Fluff, No Hype)",
-    "slug": "finance-tips-that-move-needle",
-    "meta_description": "Practical finance tips from a watch collector's perspective. Cut through the noise with advice that actually builds wealth over time.",
-    "date": "May 31, 2026",
-    "date_iso": "2026-05-31",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/29799518/pexels-photo-29799518.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "macrotrends.net",
-      "federalreserve.gov",
-      "nber.org"
-    ],
-    "posted_iso": "2026-05-31",
-    "available_languages": [
-      "en"
-    ],
-    "category": "Movements"
-  },
-  {
-    "title": "Watches & Wonders Geneva 2022: The Fair That Proved Luxury Watches Had Survived the Pandemic",
-    "slug": "watches-wonders-geneva-2022-return",
-    "meta_description": "Watches & Wonders Geneva 2022 returned in person for the first time since 2019. Here's what it meant for the watch industry and why it mattered.",
-    "date": "November 13, 2022",
-    "date_iso": "2022-11-13",
-    "author": "Jordan Cole",
-    "image": "https://images.pexels.com/photos/11301201/pexels-photo-11301201.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "bloomberg.com",
-      "hodinkee.com",
-      "watchpro.com",
-      "fhs.swiss"
-    ],
-    "posted_iso": "2026-05-31",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ],
-    "category": "Industry"
-  },
-  {
-    "title": "Finance Tips That Actually Build Wealth (Not Just the Illusion of It)",
-    "slug": "finance-tips-build-real-wealth",
-    "meta_description": "Practical finance tips from someone who's made the mistakes. Cut through the noise and start building real financial stability today.",
-    "date": "June 07, 2026",
-    "date_iso": "2026-06-07",
-    "author": "Alex Merritt",
-    "image": "https://images.pexels.com/photos/5466789/pexels-photo-5466789.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "vanguard.com",
-      "nber.org",
-      "apa.org",
-      "federalreserve.gov"
-    ],
-    "posted_iso": "2026-06-07",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Watches & Wonders Geneva 2024: The Year the Bubble Started to Hiss",
-    "slug": "watches-wonders-geneva-2024-retrospective",
-    "meta_description": "Watches & Wonders Geneva 2024 arrived amid a cooling market. Here's what actually mattered, and what the industry is quietly nervous about.",
-    "date": "September 20, 2024",
-    "date_iso": "2024-09-20",
-    "author": "Sophie Chen",
-    "image": "https://images.pexels.com/photos/20464756/pexels-photo-20464756.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "fhs.swiss",
-      "morganstanley.com",
-      "hodinkee.com"
-    ],
-    "posted_iso": "2026-06-07",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Rolex Bought Bucherer in 2023 - But 2022 Was When the Grey Market War Started",
-    "slug": "rolex-grey-market-2022-dealer-shakeup",
-    "meta_description": "In 2022, Rolex's authorised dealer network cracked under grey market pressure. Here's what actually happened and why it changed everything.",
-    "date": "February 19, 2022",
-    "date_iso": "2022-02-19",
-    "author": "Alex Merritt",
-    "image": "https://images.pexels.com/photos/29268643/pexels-photo-29268643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "watchcharts.com",
-      "business-of-fashion.com",
-      "ft.com",
-      "mckinsey.com"
-    ],
-    "posted_iso": "2026-06-09",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Your Watch Collection Is a Financial Asset. Treat It Like One.",
-    "slug": "watch-collector-finance-tips",
-    "meta_description": "Finance tips that actually change how collectors build wealth - from cash flow rules to the real cost of sitting on illiquid assets.",
-    "date": "July 01, 2026",
-    "date_iso": "2026-07-01",
-    "author": "Thom Sterling",
-    "image": "https://images.pexels.com/photos/2029594/pexels-photo-2029594.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "federalreserve.gov",
-      "consumerfinance.gov",
-      "irs.gov"
-    ],
-    "posted_iso": "2026-07-01",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Rolex Bought Bucherer and the Watch World Still Hasn't Processed It",
-    "slug": "rolex-bucherer-acquisition-2024",
-    "meta_description": "Rolex's 2024 full ownership of Bucherer reshaped watch retail forever. Here's what it meant, what went wrong in the coverage, and why it matters.",
-    "date": "January 30, 2024",
-    "date_iso": "2024-01-30",
-    "author": "Thom Sterling",
-    "image": "https://images.pexels.com/photos/4276458/pexels-photo-4276458.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "reuters.com",
-      "bloomberg.com",
-      "statista.com"
-    ],
-    "posted_iso": "2026-07-01",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "The Finance Rules I Learned From Overpaying for a Watch",
-    "slug": "finance-tips-watch-collector",
-    "meta_description": "Practical finance tips from a watch collector who made the money mistakes first. Real numbers, honest trade-offs, and what actually builds wealth.",
-    "date": "July 13, 2026",
-    "date_iso": "2026-07-13",
-    "author": "Thom Sterling",
-    "image": "https://images.pexels.com/photos/1790711/pexels-photo-1790711.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "nber.org",
-      "sec.gov"
-    ],
-    "posted_iso": "2026-07-13",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Rolex Just Bought Its Biggest Retailer, and the Trade Is Spooked",
-    "slug": "rolex-buys-bucherer-2023",
-    "meta_description": "Rolex is acquiring Bucherer, its largest authorized dealer. Here's what the deal means for waitlists, the gray market, and the rest of the watch trade.",
-    "date": "December 27, 2023",
-    "date_iso": "2023-12-27",
-    "author": "Thom Sterling",
-    "image": "https://images.pexels.com/photos/35050220/pexels-photo-35050220.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "rolex.com",
-      "reuters.com",
-      "bloomberg.com",
-      "watchcharts.com"
-    ],
-    "posted_iso": "2026-07-13",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "The Money Habits I Wish I'd Built Before Buying My First Watch",
-    "slug": "money-habits-before-first-watch",
-    "meta_description": "Practical finance tips from someone who learned the hard way. Automate savings, kill high-interest debt, and stop confusing spending with investing.",
-    "date": "July 15, 2026",
-    "date_iso": "2026-07-15",
-    "author": "Thom Sterling",
-    "image": "https://images.pexels.com/photos/6927354/pexels-photo-6927354.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "federalreserve.gov",
-      "nber.org"
-    ],
-    "posted_iso": "2026-07-15",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "The $400 Question Most Watch Collectors Can't Answer",
-    "slug": "400-question-watch-collectors-finance",
-    "meta_description": "Practical finance tips for watch collectors: cash buffers, automation, and why your watch box is not a retirement account.",
-    "date": "July 16, 2026",
-    "date_iso": "2026-07-16",
-    "author": "Thom Sterling",
-    "image": "https://images.pexels.com/photos/3873853/pexels-photo-3873853.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "federalreserve.gov",
-      "morningstar.com",
-      "watchcharts.com"
-    ],
-    "posted_iso": "2026-07-16",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Your Watch Is Not an Investment, and That's Fine",
-    "slug": "watch-not-investment-finance-tips",
-    "meta_description": "Honest finance tips from a collector: why watches fail as investments, what actually builds wealth, and the boring math that funds the good stuff.",
-    "date": "July 20, 2026",
-    "date_iso": "2026-07-20",
-    "author": "Thom Sterling",
-    "image": "https://images.pexels.com/photos/5710619/pexels-photo-5710619.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "knightfrank.com",
-      "vanguard.com",
-      "federalreserve.gov"
-    ],
-    "posted_iso": "2026-07-20",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
-    "title": "Patek Kills the 5711 and Hands the Market to Flippers",
-    "slug": "patek-5711-discontinued-2021",
-    "meta_description": "Patek Philippe discontinued the steel Nautilus 5711 in 2021. Here is what really happened, why Thierry Stern did it, and what it cost collectors.",
-    "date": "September 20, 2021",
-    "date_iso": "2021-09-20",
-    "author": "Thom Sterling",
-    "image": "https://images.pexels.com/photos/278299/pexels-photo-278299.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "outbound_links": [
-      "fhs.swiss",
-      "phillips.com",
-      "reuters.com",
-      "morganstanley.com"
-    ],
-    "posted_iso": "2026-07-20",
-    "historical": true,
-    "available_languages": [
-      "en"
-    ]
   }
 ]
