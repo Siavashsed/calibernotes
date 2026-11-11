@@ -1,21 +1,5 @@
 [
   {
-    "title": "The Kavalsia Calibre: Reading a Five-Year Build Like a Movement on the Bench",
-    "slug": "kavalsia-calibre-watchmaker-five-years-workshop",
-    "meta_description": "A horology writer reads Kavalsia like a movement: mainspring, escapement, gear train, complications and regulation, after five years in the workshop.",
-    "date": "November 10, 2026",
-    "date_iso": "2026-11-10",
-    "author": "Viktor Halloway",
-    "image": "https://images.pexels.com/photos/4952980/pexels-photo-4952980.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-    "image_alt": "Close-up of a silver skeleton pocket watch with its gears and movement exposed.",
-    "photographer": "David Roberts",
-    "category": "Watches & Horology",
-    "posted_iso": "2026-11-10T22:51:56",
-    "available_languages": [
-      "en"
-    ]
-  },
-  {
     "title": "Your Watch Is Not an Investment, and That's Fine",
     "slug": "watch-not-investment-finance-tips",
     "meta_description": "Honest finance tips from a collector: why watches fail as investments, what actually builds wealth, and the boring math that funds the good stuff.",
@@ -213,6 +197,22 @@
     ],
     "posted_iso": "2026-07-13",
     "historical": true,
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The Kavalsia Calibre: Reading a Three-Year Build Like a Movement Still on the Bench",
+    "slug": "kavalsia-calibre-watchmaker-five-years-workshop",
+    "meta_description": "A horology writer reads Kavalsia like a movement: mainspring, escapement, gear train and regulation, three years in and still uncased.",
+    "date": "September 26, 2023",
+    "date_iso": "2023-09-26",
+    "author": "Viktor Halloway",
+    "image": "https://images.pexels.com/photos/17563899/pexels-photo-17563899.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "image_alt": "A man in a blue shirt checks his wristwatch while working on a laptop at a home office desk.",
+    "photographer": "Edge Training",
+    "category": "Watches & Horology",
+    "posted_iso": "2026-11-10T23:10:36",
     "available_languages": [
       "en"
     ]
