@@ -356,5 +356,43 @@
       "en"
     ],
     "category": "Buying Guides"
+  },
+  {
+    "title": "The $400 Test Most Watch Buyers Fail Before Their First Grail",
+    "slug": "finance-tips-before-your-grail-watch",
+    "meta_description": "General finance tips from a watch collector who learned the hard way: cash buffers, index funds, cheap debt rules and paying for watches outright.",
+    "date": "November 15, 2026",
+    "date_iso": "2026-11-15",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/40667265/pexels-photo-40667265.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "spglobal.com",
+      "subdial.com"
+    ],
+    "posted_iso": "2026-11-15",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "Rolex Just Bought Its Biggest Retailer, and Your Waitlist Changed Forever",
+    "slug": "rolex-buys-bucherer-2023-2",
+    "meta_description": "Rolex buying Bucherer in August 2023 was the biggest watch retail story in decades. Here's what the deal means for buyers, dealers and pre-owned prices.",
+    "date": "August 03, 2023",
+    "date_iso": "2023-08-03",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/1453008/pexels-photo-1453008.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "morganstanley.com",
+      "fhs.swiss",
+      "rolex.com",
+      "watchcharts.com"
+    ],
+    "posted_iso": "2026-11-15",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
