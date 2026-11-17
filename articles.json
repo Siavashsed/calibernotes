@@ -412,5 +412,25 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Pass the $400 Test Before You Buy Another Watch",
+    "slug": "pass-the-400-test-first",
+    "meta_description": "General finance tips from a watch collector who learned the hard way: build a cash buffer, clear card debt, automate investing, then buy the watch.",
+    "date": "November 17, 2026",
+    "date_iso": "2026-11-17",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/32603402/pexels-photo-32603402.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "fdic.gov",
+      "spglobal.com",
+      "morningstar.com",
+      "watchcharts.com"
+    ],
+    "posted_iso": "2026-11-17",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
