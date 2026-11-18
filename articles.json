@@ -432,5 +432,25 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "The $4,100 Speedmaster Sale That Rewired How I Handle Money",
+    "slug": "general-finance-tips-hard-lessons",
+    "meta_description": "General finance tips from a watch writer who sold a Speedmaster to pay taxes: cash buffers, automation, and why your watch box isn't a portfolio.",
+    "date": "November 18, 2026",
+    "date_iso": "2026-11-18",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/5827773/pexels-photo-5827773.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "fdic.gov",
+      "spglobal.com",
+      "watchcharts.com",
+      "morningstar.com"
+    ],
+    "posted_iso": "2026-11-18",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
