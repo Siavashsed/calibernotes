@@ -452,5 +452,23 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Watch Box Is Not a Savings Account, and Mine Wasn't Either",
+    "slug": "general-finance-tips-watch-box",
+    "meta_description": "General finance tips from a collector who learned the hard way: build cash, kill debt, buy index funds, and stop treating watches as savings.",
+    "date": "November 19, 2026",
+    "date_iso": "2026-11-19",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/6693643/pexels-photo-6693643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "spglobal.com",
+      "watchcharts.com"
+    ],
+    "posted_iso": "2026-11-19",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
