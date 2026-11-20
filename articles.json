@@ -470,5 +470,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Emergency Fund Matters More Than Your Next Watch",
+    "slug": "general-finance-tips-collectors",
+    "meta_description": "General finance tips from a collector who paid 24.99% APR for a watch. Cash buffers, index funds and a 48-hour rule that actually hold up.",
+    "date": "November 20, 2026",
+    "date_iso": "2026-11-20",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/547766/pexels-photo-547766.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "spglobal.com"
+    ],
+    "posted_iso": "2026-11-20",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
