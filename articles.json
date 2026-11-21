@@ -487,5 +487,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Most Americans Can't Cover $400, So Fix That Before Buying Watches",
+    "slug": "general-finance-tips-buffer-first",
+    "meta_description": "General finance tips from someone who sold a watch at a loss to fix a furnace. Build the buffer first, automate it, and treat collecting as spending.",
+    "date": "November 21, 2026",
+    "date_iso": "2026-11-21",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/259027/pexels-photo-259027.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "spglobal.com"
+    ],
+    "posted_iso": "2026-11-21",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
