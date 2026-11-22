@@ -504,5 +504,40 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Savings Rate Beats Every Finance Tip You've Read",
+    "slug": "general-finance-tips-savings-rate",
+    "meta_description": "The finance tips that matter are boring: automate savings, build a cash buffer, and stop paying fund fees. Here's what actually worked for me.",
+    "date": "November 22, 2026",
+    "date_iso": "2026-11-22",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/36104/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "spglobal.com"
+    ],
+    "posted_iso": "2026-11-22",
+    "available_languages": [
+      "en"
+    ]
+  },
+  {
+    "title": "The $260 MoonSwatch Broke the Watch Industry's Biggest Rule",
+    "slug": "moonswatch-2022-omega-swatch-launch",
+    "meta_description": "The 2022 Omega x Swatch MoonSwatch drop sold out in hours and reshaped how collectors think about luxury watches. Here's what it really meant.",
+    "date": "October 19, 2022",
+    "date_iso": "2022-10-19",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/8327557/pexels-photo-8327557.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "fhs.swiss",
+      "swatchgroup.com"
+    ],
+    "posted_iso": "2026-11-22",
+    "historical": true,
+    "available_languages": [
+      "en"
+    ]
   }
 ]
