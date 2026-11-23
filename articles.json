@@ -539,5 +539,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Emergency Fund Matters More Than Your Next Watch",
+    "slug": "finance-tips-emergency-fund-first",
+    "meta_description": "Plain finance tips from someone who learned the hard way: fund your cushion first, ignore stock picking, and treat every big purchase like a 30-day test.",
+    "date": "November 23, 2026",
+    "date_iso": "2026-11-23",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/144233/pexels-photo-144233.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "spglobal.com"
+    ],
+    "posted_iso": "2026-11-23",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
