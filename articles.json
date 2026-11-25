@@ -573,5 +573,22 @@
     "available_languages": [
       "en"
     ]
+  },
+  {
+    "title": "Your Emergency Fund Matters More Than Your Next Watch",
+    "slug": "emergency-fund-before-next-watch",
+    "meta_description": "General finance tips from a collector who learned the hard way: build the cash buffer first, automate it, and ignore most investing noise.",
+    "date": "November 25, 2026",
+    "date_iso": "2026-11-25",
+    "author": "Thom Sterling",
+    "image": "https://images.pexels.com/photos/30139495/pexels-photo-30139495.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "outbound_links": [
+      "federalreserve.gov",
+      "spglobal.com"
+    ],
+    "posted_iso": "2026-11-25",
+    "available_languages": [
+      "en"
+    ]
   }
 ]
